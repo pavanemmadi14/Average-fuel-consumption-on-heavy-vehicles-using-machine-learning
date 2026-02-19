@@ -108,7 +108,9 @@ RF Accuracy: 83.7%
 |------|------|
 | E. Pavan Kumar | Developer / Research Author |
 
----
+## **Contact**
 
-## License
-MIT License
+📧 [pavanemmadi5@gmail.com](mailto:pavanemmadi5@gmail.com)  
+📞 [+91 9701706026](tel:+919701706026)   
+💼 [LinkedIn](https://linkedin.com/in/pavan-emmadi-769790304)  
+🐙 [GitHub](https://github.com/pavanemmadi14)
