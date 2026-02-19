@@ -23,7 +23,7 @@ This project is **officially published** in the _International Scientific Journa
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 Fuel consumption is a critical cost and efficiency factor in heavy-vehicle fleet operations. This system predicts average fuel usage based on seven predictors aggregated per vehicle distance window.
 
@@ -36,7 +36,7 @@ The Python application provides:
 
 ---
 
-## 🗂 Dataset Description
+## Dataset Description
 
 Dataset Sample Fields:
 ```
@@ -57,7 +57,7 @@ aerodynamic_speed_squared, change_in_kinetic_energy, change_in_potential_energy,
 
 ---
 
-## 🧪 Algorithms Used
+## Algorithms Used
 
 | Algorithm | Purpose |
 |----------|---------|
@@ -67,7 +67,7 @@ aerodynamic_speed_squared, change_in_kinetic_energy, change_in_potential_energy,
 
 ---
 
-## 🛠 Installation
+## Installation
 
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
@@ -78,7 +78,7 @@ python Main.py
 
 ---
 
-## ▶ Running The App
+## Running The App
 - Upload dataset
 - Train model
 - Compare ANN, RF, SVM
@@ -87,7 +87,7 @@ python Main.py
 
 ---
 
-## 📈 Output Example
+## Output Example
 ```
 ANN Accuracy: 91.2%
 SVM Accuracy: 88.4%
@@ -96,19 +96,19 @@ RF Accuracy: 83.7%
 
 ---
 
-## 🔧 Future Enhancements
+## Future Enhancements
 - Streamlit or Django Web Deployment
 - Real-time IoT fleet input model
 - Fuel performance report export (PDF/Excel)
 
 ---
 
-## 🤝 Contributors
+## Contributors
 | Name | Role |
 |------|------|
 | E. Pavan Kumar | Developer / Research Author |
 
 ---
 
-## 📜 License
+## License
 MIT License
