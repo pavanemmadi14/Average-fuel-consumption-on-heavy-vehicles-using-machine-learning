@@ -110,7 +110,7 @@ RF Accuracy: 83.7%
 
 ## **Contact**
 
-📧 [pavanemmadi5@gmail.com](mailto:pavanemmadi5@gmail.com)  
-📞 [+91 9701706026](tel:+919701706026)   
-💼 [LinkedIn](https://linkedin.com/in/pavan-emmadi-769790304)  
-🐙 [GitHub](https://github.com/pavanemmadi14)
+[pavanemmadi5@gmail.com](mailto:pavanemmadi5@gmail.com)  
+[+91 9701706026](tel:+919701706026)   
+[LinkedIn](https://linkedin.com/in/pavan-emmadi-769790304)  
+[GitHub](https://github.com/pavanemmadi14)
